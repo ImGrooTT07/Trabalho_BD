@@ -7,7 +7,7 @@ Este projeto simula um sistema de gerenciamento para uma locadora de carros. Ele
 
 - Modelar um banco de dados relacional com base em um cenário real
 - Utilizar comandos DDL e DML do PostgreSQL
-- Aplicar boas práticas de modelagem (chaves primárias, estrangeiras, restrições, etc.)
+- Aplicar boas práticas de modelag'em (chaves primárias, estrangeiras, restrições, etc.)
 - Executar consultas SQL com diferentes cláusulas
 ---
 
