@@ -7,7 +7,7 @@ Este projeto simula um sistema de gerenciamento para uma locadora de carros. Ele
 
 - Modelar um banco de dados relacional com base em um cenário real
 - Utilizar comandos DDL e DML do PostgreSQL
-- Aplicar boas práticas de modelag'em (chaves primárias, estrangeiras, restrições, etc.)
+- Aplicar boas práticas de modelagem (chaves primárias, estrangeiras, restrições, etc.)
 - Executar consultas SQL com diferentes cláusulas
 ---
 
@@ -15,11 +15,11 @@ Este projeto simula um sistema de gerenciamento para uma locadora de carros. Ele
 
 O projeto está dividido nas seguintes etapas:
 
-- Modelagem Conceitual (Diagrama ER)
+- Modelagem Conceitual (Modelo conceitual)
 - Modelagem Lógica (Modelo relacional)
-- Criação do banco de dados (DDL)
-- Inserção de dados (DML - INSERT)
-- Manipulação de dados (DML - UPDATE e DELETE)
+- Criação do banco de dados (CREATE)
+- Inserção de dados (INSERT)
+- Manipulação de dados (UPDATE e DELETE)
 - Consultas SQL com diferentes níveis de complexidade
 - Documento explicativo (este README)
 ---
@@ -37,9 +37,9 @@ O projeto está dividido nas seguintes etapas:
 ## 🔗 Relacionamentos Principais
 
 | Entidade A | Relação        | Entidade B | Tipo de Relacionamento |
-|------------|----------------|------------|-------------------------|
-| Cliente    | realiza        | Locação    | 1:N                     |
-| Veículo    | aluga          | Locação    |1:N                     |
-| Locação    | gera           | Pagamento  | 1:N                     |
-| Veículo    | passa_por      | Manutenção | 1:N                     |
+|------------|----------------|------------|------------------------|
+| Cliente    | realiza        | Locação    | 1:N                      
+| Veículo    | aluga          | Locação    | 1:N                      
+| Locação    | gera           | Pagamento  | 1:N                      
+| Veículo    | passa_por      | Manutenção | 1:N                      
 ---
