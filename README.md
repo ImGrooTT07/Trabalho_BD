@@ -2,7 +2,14 @@
 
 Este projeto simula um sistema de gerenciamento para uma locadora de carros. Ele inclui a criação de tabelas, inserção de dados, operações de atualização e exclusão, além de consultas SQL utilizando recursos como joins, agrupamentos e filtros.
 ---
+## 📌 Tecnologias Utilizadas
 
+- PostgresSQL
+- PgAdmin
+- Draw.IO
+- BrModeloWeb
+
+---
 ## 📌 Objetivos
 
 - Modelar um banco de dados relacional com base em um cenário real
