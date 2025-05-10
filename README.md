@@ -34,12 +34,12 @@ O projeto está dividido nas seguintes etapas:
 - Restrições de integridade (PK, FK, CHECK, UNIQUE, DEFAULT)
 ---
 
-## 🔗 Relacionamentos Principais
+## 🔗 Estrutura de Modelagem
 
-| Entidade A | Relação        | Entidade B | Tipo de Relacionamento |
-|------------|----------------|------------|------------------------|
-| Cliente    | realiza        | Locação    | 1:N                      
-| Veículo    | aluga          | Locação    | 1:N                      
-| Locação    | gera           | Pagamento  | 1:N                      
-| Veículo    | passa_por      | Manutenção | 1:N                      
----
+### 📘 Modelagem Conceitual
+
+![Modelagem Conceitual](midia/Modelos/Conceitual.png)
+
+### 📘 Modelagem Lógica
+
+![Modelagem Conceitual](midia/modelos/Logico.png)
