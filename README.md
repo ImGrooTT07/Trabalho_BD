@@ -1,6 +1,9 @@
 # 🚗 Projeto de Banco de Dados — Locadora de Veículos
 
-Este projeto simula um sistema de gerenciamento para uma locadora de carros. Ele inclui a criação de tabelas, inserção de dados, operações de atualização e exclusão, além de consultas SQL utilizando recursos como joins, agrupamentos e filtros.
+Este projeto simula um sistema de gerenciamento para uma locadora de carros. Ele inclui a criação de tabelas, inserção de dados, operações de atualização e exclusão, além de consultas SQL utilizando recursos como joins, agrupamentos e filtros.  
+
+Apresentação do projeto no Youtube: https://youtu.be/kIKXEJX9iJ4
+
 ---
 ## 📌 Tecnologias Utilizadas
 
