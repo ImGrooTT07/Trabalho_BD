@@ -42,4 +42,4 @@ O projeto está dividido nas seguintes etapas:
 
 ### 📘 Modelagem Lógica
 
-![Modelagem Conceitual](midia/modelos/Logico.png)
+![Modelagem Lógica](midia/modelos/Logico.png)
